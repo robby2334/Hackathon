@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Hackathon</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_name_profile">robbie</string>
+    <string name="text_profession">Android Development</string>
+    <string name="tab_layout_text_profile">Profile</string>
+    <string name="text_address">Bekasi</string>
+    <string name="text_title_current_location">Current Location Data :</string>
+    <string name="text_placeholder_longitude">Longitude : </string>
+    <string name="text_placeholder_latitude">Latitude :</string>
+    <string name="text_placeholder_provider">Provider :</string>
+    <string name="text_open_to_map">Open to map</string>
+    <string name="text_button_get_current_location">Get Current Location</string>
+    <string name="text_need_permission">You need Location Permission to Get Current Location!</string>
+    <string name="tab_layout_text_current_location">Current Location</string>
+
+
+
+
+
+    <string name="text_placeholder_format_longitude" translatable="false">Longitude : %s</string>
+    <string name="text_placeholder_format_latitude" translatable="false">Latitude : %s</string>
+    <string name="text_placeholder_format_provider" translatable="false">Provider : %s</string>
+</resources>
